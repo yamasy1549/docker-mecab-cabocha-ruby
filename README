@@ -1,0 +1,15 @@
+# mecab-cabocha-ruby
+
+Docker Hub: https://hub.docker.com/r/yamasy1549/mecab-cabocha-ruby/
+
+## contains
+
+| tool | versions |
+| --- | --- |
+| MeCab | 0.996 |
+| MeCab IPA辞書 | 2.7.0 |
+| mecab-ruby | 0.996 |
+| CRF++ | 0.58 |
+| CaboCha | 0.69 |
+| PCRE | 8.41 |
+| Swig | 3.0.12 |
